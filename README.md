@@ -1,4 +1,6 @@
-![YouTube-girl](https://github.com/user-attachments/assets/7b815b9b-89e0-4875-a0c6-65969c4c46cc)## Hi there 👋
+<img src="![YouTube-girl](https://github.com/user-attachments/assets/7b815b9b-89e0-4875-a0c6-65969c4c46cc)" height="250px">
+<br>
+## Hi there 👋
 ## I am Maryam Zohra, A frontend web developer! 
 
 
